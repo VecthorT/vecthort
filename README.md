@@ -40,7 +40,8 @@
 
 | Data | Título |  Leia|
 | -----:|-------|---|
-| 04/09|Gerenciamento de Tempo|![Static Badge](https://img.shields.io/badge/Leia%20o%20Artigo-4B0082)|
+| 04/09|Gerenciamento de Tempo|[![Static Badge](https://img.shields.io/badge/Leia%20o%20Artigo-4B0082)](https://web.dio.me/articles/gerencie-seu-tempo?back=%2Farticles&page=1&order=oldest)|
+
 
 
 > Ninguém se importa com o que você fez ontem. O que você fez hoje para melhorar? — David Goggins
